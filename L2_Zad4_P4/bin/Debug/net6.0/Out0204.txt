@@ -1,0 +1,37 @@
+T = ABCDEFGH!, n = 5
+
+Tablica 0
+[A, B, C, D, E]
+[G, H, !, A, F]
+[F, F, G, B, G]
+[E, E, D, C, H]
+[D, C, B, A, !]
+
+Tablica 1
+[E, D, C, B, A]
+[H, G, F, E, !]
+[!, !, H, D, H]
+[A, A, B, C, G]
+[B, C, D, E, F]
+
+Tablica 2
+[F, G, H, !, A]
+[C, D, E, F, B]
+[B, B, C, G, C]
+[A, A, !, H, D]
+[!, H, G, F, E]
+
+Tablica 3
+[A, !, H, G, F]
+[D, C, B, A, E]
+[E, E, D, !, D]
+[F, F, G, H, C]
+[G, H, !, A, B]
+
+Tablica 4
+[B, C, D, E, F]
+[H, !, A, B, G]
+[G, G, H, C, H]
+[F, F, E, D, !]
+[E, D, C, B, A]
+

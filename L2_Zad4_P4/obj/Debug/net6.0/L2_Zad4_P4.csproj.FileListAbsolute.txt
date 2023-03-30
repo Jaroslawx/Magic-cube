@@ -1,0 +1,30 @@
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.exe
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.deps.json
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.runtimeconfig.json
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.dll
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.pdb
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.csproj.AssemblyReference.cache
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.AssemblyInfoInputs.cache
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.AssemblyInfo.cs
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.csproj.CoreCompileInputs.cache
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.dll
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\refint\L2_Zad4_P4.dll
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.pdb
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.genruntimeconfig.cache
+C:\Users\kapit\source\repos\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\ref\L2_Zad4_P4.dll
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.exe
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.deps.json
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.runtimeconfig.json
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.dll
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\bin\Debug\net6.0\L2_Zad4_P4.pdb
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.csproj.AssemblyReference.cache
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.AssemblyInfoInputs.cache
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.AssemblyInfo.cs
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.csproj.CoreCompileInputs.cache
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.dll
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\refint\L2_Zad4_P4.dll
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.pdb
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\L2_Zad4_P4.genruntimeconfig.cache
+E:\Na zajęcia\Lista 2\L2_Zad4_P4\L2_Zad4_P4\obj\Debug\net6.0\ref\L2_Zad4_P4.dll
